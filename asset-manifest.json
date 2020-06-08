@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.js": "/devanto/planets/static/js/main.155f301b.chunk.js",
-    "main.js.map": "/devanto/planets/static/js/main.155f301b.chunk.js.map",
-    "runtime-main.js": "/devanto/planets/static/js/runtime-main.c61d29fc.js",
-    "runtime-main.js.map": "/devanto/planets/static/js/runtime-main.c61d29fc.js.map",
-    "static/css/2.af3c1da9.chunk.css": "/devanto/planets/static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0a714cf0.chunk.js": "/devanto/planets/static/js/2.0a714cf0.chunk.js",
-    "static/js/2.0a714cf0.chunk.js.map": "/devanto/planets/static/js/2.0a714cf0.chunk.js.map",
-    "index.html": "/devanto/planets/index.html",
-    "precache-manifest.b11c69a49245519e2c153897154d1ea3.js": "/devanto/planets/precache-manifest.b11c69a49245519e2c153897154d1ea3.js",
-    "service-worker.js": "/devanto/planets/service-worker.js",
-    "static/css/2.af3c1da9.chunk.css.map": "/devanto/planets/static/css/2.af3c1da9.chunk.css.map",
-    "static/js/2.0a714cf0.chunk.js.LICENSE.txt": "/devanto/planets/static/js/2.0a714cf0.chunk.js.LICENSE.txt"
+    "main.js": "/planets/static/js/main.35c078c1.chunk.js",
+    "main.js.map": "/planets/static/js/main.35c078c1.chunk.js.map",
+    "runtime-main.js": "/planets/static/js/runtime-main.6cb7c7b4.js",
+    "runtime-main.js.map": "/planets/static/js/runtime-main.6cb7c7b4.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/planets/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.6574e845.chunk.js": "/planets/static/js/2.6574e845.chunk.js",
+    "static/js/2.6574e845.chunk.js.map": "/planets/static/js/2.6574e845.chunk.js.map",
+    "index.html": "/planets/index.html",
+    "precache-manifest.30664b3b785beb041402dee4938fee88.js": "/planets/precache-manifest.30664b3b785beb041402dee4938fee88.js",
+    "service-worker.js": "/planets/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/planets/static/css/2.af3c1da9.chunk.css.map",
+    "static/js/2.6574e845.chunk.js.LICENSE.txt": "/planets/static/js/2.6574e845.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.c61d29fc.js",
+    "static/js/runtime-main.6cb7c7b4.js",
     "static/css/2.af3c1da9.chunk.css",
-    "static/js/2.0a714cf0.chunk.js",
-    "static/js/main.155f301b.chunk.js"
+    "static/js/2.6574e845.chunk.js",
+    "static/js/main.35c078c1.chunk.js"
   ]
 }
